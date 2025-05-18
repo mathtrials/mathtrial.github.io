@@ -27,15 +27,7 @@ This GitHub Pages site serves as a hub for lattice-based cryptography experiment
 - 📈 Visualization of lattice structures and sieving progress
 - 📚 Educational content for lattice-based cryptography
 
----
 
-## 🛠️ Tech Stack
-
-- HTML5 / CSS3 / JS
-- GitHub Pages for hosting
-- Possibly D3.js or MathJax for visualization and math rendering
-
----
 
 ## 💻 Run Locally
 
