@@ -34,6 +34,6 @@ This GitHub Pages site serves as a hub for lattice-based cryptography experiment
 Clone the repo:
 
 ```bash
-git clone https://github.com/mathtrials/mathtrials.github.io.git
+git clone https://github.com/mathtrials/mathtrials.github.io
 cd mathtrials.github.io
 ```
