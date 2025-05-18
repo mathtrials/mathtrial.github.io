@@ -36,3 +36,4 @@ Clone the repo:
 ```bash
 git clone https://github.com/mathtrials/mathtrials.github.io.git
 cd mathtrials.github.io
+```
