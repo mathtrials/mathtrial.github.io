@@ -1,24 +1,41 @@
-# 🌐 My GitHub Pages Site
+<h1 align="center">🌐 My GitHub Pages Website</h1>
 
-Welcome to my GitHub Pages repository! This site is hosted directly from this GitHub repository using [GitHub Pages](https://pages.github.com/).
+<p align="center">
+  <a href="https://<your-username>.github.io/<repo-name>/"><img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=githubpages" alt="Live Demo"></a>
+  <a href="https://github.com/<your-username>/<repo-name>/issues"><img src="https://img.shields.io/github/issues/<your-username>/<repo-name>?style=flat-square" alt="GitHub issues"></a>
+  <a href="https://github.com/<your-username>/<repo-name>/blob/main/LICENSE"><img src="https://img.shields.io/github/license/<your-username>/<repo-name>?style=flat-square" alt="License"></a>
+</p>
 
-## 📄 About
-
-This repository contains the source code and content for my personal/project website built with HTML, CSS, and optionally JavaScript or a static site generator (e.g., Jekyll).
-
-You can view the live website here:
-👉 **[https://<your-username>.github.io/<repo-name>/](https://<your-username>.github.io/<repo-name>/)**
-
-Replace `<your-username>` and `<repo-name>` with your actual GitHub username and repository name.
+<p align="center">A modern, responsive, and fast GitHub Pages website built with 💡 HTML, CSS, JavaScript, and ⚡ dynamic content. Hosted with ❤️ on GitHub Pages.</p>
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Live Preview
 
-If you want to run or edit this website locally:
+🔗 **[View Site](https://<your-username>.github.io/<repo-name>/)**  
+📦 **Repository**: [GitHub](https://github.com/<your-username>/<repo-name>)
 
-### 1. Clone the repository
+---
+
+## 🧰 Tech Stack
+
+- 🔹 **HTML5** / **CSS3**
+- ⚙️ **JavaScript (Vanilla / Framework like React/Vue)**  
+- 🌀 Optional: **Jekyll** or static site generators
+- 🎨 Responsive design with modern UI/UX
+
+---
+
+## 📁 Folder Structure
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+<repo-name>/
+├── index.html
+├── /assets
+│   ├── /css
+│   ├── /js
+│   └── /images
+├── /pages
+│   └── about.html
+├── README.md
+└── LICENSE
