@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Live Preview
+## 🚀 Preview
 
 🔗 **Website**: [mathtrials.github.io](https://mathtrials.github.io/)
 
@@ -17,23 +17,3 @@ To setup the G6K environment with NTRU parameters, follow the guide here:
 👉 [https://github.com/mathtrials/setup-g6k-with-ntru](https://github.com/mathtrials/setup-g6k-with-ntru)
 
 ---
-
-## 🧠 About This Project
-
-This GitHub Pages site serves as a hub for lattice-based cryptography experiments, visualizations, and tools. The site is actively updated with demos, guides, and research resources related to:
-
-- 🧮 Lattice algorithms (e.g., SVP, CVP, NTRU)
-- ⚙️ Gauss Sieve, LWE, and related cryptographic primitives
-- 📈 Visualization of lattice structures and sieving progress
-- 📚 Educational content for lattice-based cryptography
-
-
-
-## 💻 Run Locally
-
-Clone the repo:
-
-```bash
-git clone https://github.com/mathtrials/mathtrial.github.io
-cd mathtrials.github.io
-```
