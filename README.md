@@ -13,7 +13,7 @@
 🔗 **Website**: [mathtrials.github.io](https://mathtrials.github.io/)
 
 📦 **Setup G6K (Gauss Sieve Kernel)**:  
-To setup the G6K environment with NTRU parameters, follow the guide here:  
+To setup the G6K environment with NTRU solver, follow the guide here:  
 👉 [https://github.com/mathtrials/setup-g6k-with-ntru](https://github.com/mathtrials/setup-g6k-with-ntru)
 
 ---
